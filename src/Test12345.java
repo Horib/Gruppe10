@@ -1,5 +1,5 @@
 public class Test12345 {
-    Hello world
-    Hello world
-            
+    public static void main(String[] args) {
+        System.out.println("Hello World");
+}
 }
